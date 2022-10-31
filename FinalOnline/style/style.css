@@ -1,0 +1,24 @@
+.error{
+    color: red;
+}
+
+.regerror{
+    padding:20px; 
+    border: 1px solid gray; 
+    color:red;
+}
+
+.success{
+    color: green;
+}
+
+.regsuccess{
+    padding:20px; 
+    border: 1px solid gray; 
+    color:green;
+}
+
+.FWP{
+    margin-top: 20px;
+    padding-top: 20px;
+}

@@ -1,0 +1,1 @@
+<img style="height:200px;width:200px;" src="uploads/<?php echo $owner; ?>/<?php echo $file; ?>">

@@ -1,0 +1,7 @@
+#mainNavbar .nav-link:hover{
+    color: #000000;
+}
+
+.navbar.scrolled{
+    background-color: rgb(222, 192, 222);
+}
